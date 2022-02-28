@@ -1,4 +1,4 @@
-# Diabetes Prediction Uisng Machine Learning Algorithm
+# Diabetes Prediction Using Machine Learning Algorithm
 # Overview
 
 To create a Model which can be used to Predict Diabetes.
